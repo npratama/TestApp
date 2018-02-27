@@ -10,6 +10,8 @@ namespace TestApp.Controllers
     {
         public ActionResult Index()
         {
+			//komen
+			//lagi
             return View();
         }
 
